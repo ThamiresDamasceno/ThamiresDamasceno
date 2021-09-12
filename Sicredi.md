@@ -1,0 +1,3 @@
+- Olá! Me chamo Thamires Damasceno dos Santos
+- Estou aqui buscando a oportunidade de ingressar no Sicred e poder deselvolver meus estudos e iniciar na área da tecnologia
+- Meu projeto consiste em uma Educação Financeira para os associados do Sicredi
